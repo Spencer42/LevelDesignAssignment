@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -44,10 +44,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 679, y: 498}
-  m_MaxSize: {x: 14002, y: 14048}
+  m_MinSize: {x: 683, y: 498}
+  m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 59
+  controlID: 50
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 0
     width: 287
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 74}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -93,8 +93,8 @@ MonoBehaviour:
     y: 0
     width: 214
     height: 670
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 224}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -215,10 +215,10 @@ MonoBehaviour:
     y: 0
     width: 1633
     height: 947
-  m_MinSize: {x: 404, y: 498}
+  m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 60
+  controlID: 51
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -240,10 +240,10 @@ MonoBehaviour:
     y: 0
     width: 1633
     height: 670
-  m_MinSize: {x: 404, y: 224}
-  m_MaxSize: {x: 8004, y: 4024}
+  m_MinSize: {x: 406, y: 224}
+  m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 61
+  controlID: 52
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -336,20 +336,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/CGMA/Prototypes/Labyrinth
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/CGMA/Prototypes/Labyrinth
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\STADMIN\Desktop\LevelDesign\LevelDesignAssignment\LevelDesign
+  m_LastProjectPath: C:\Users\sr793514\Desktop\LevelDesign\LevelDesignAssignment\LevelDesign
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 92370100
-    m_LastClickedID: 79762
-    m_ExpandedIDs: 00000000a62700005c2d0000782d0000902d000076370100963701009a3701009e37010000ca9a3b
+    m_SelectedIDs: a4990000
+    m_LastClickedID: 39332
+    m_ExpandedIDs: 00000000c4980000e09800005e9c00001e9d0000589d0000049e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -377,7 +377,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a6270000
+    m_ExpandedIDs: 00000000c4980000e0980000b89b00005e9c00001e9d0000589d00007e9d0000049e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -495,10 +495,10 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 336}
-      m_SelectedIDs: 
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: aa9a0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 4286feff069afeffda9efeff02b9feff7abffefff0c7feff96cefeff02d1fefff2f7feffd2fbffff
+      m_ExpandedIDs: 8885ffffc688ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -584,13 +584,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.20125443, y: -0.16996524, z: 0.03550399, w: -0.9640193}
+    m_Target: {x: -0.13191482, y: 0.014355197, z: -0.0018919744, w: -0.99114496}
     speed: 2
-    m_Value: {x: -0.20125592, y: -0.16996649, z: 0.03550425, w: -0.96402645}
+    m_Value: {x: -0.13191618, y: 0.014355344, z: -0.0018919938, w: -0.9911551}
   m_Size:
-    m_Target: 119.10749
+    m_Target: 137.5051
     speed: 2
-    m_Value: 119.10749
+    m_Value: 137.5051
   m_Ortho:
     m_Target: 0
     speed: 2
